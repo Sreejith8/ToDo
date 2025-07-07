@@ -32,15 +32,15 @@ This is a beginner-friendly ToDo List application built using **React**. It allo
 
 ## 📂 Project Structure
 
-/todo-app/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── package.json
-└── README.md
+- todo-app/
+  - public/
+    - index.html
+  - src/
+    - App.js
+    - App.css
+    - index.js
+  - package.json
+  - README.md
 
 yaml
 Copy
